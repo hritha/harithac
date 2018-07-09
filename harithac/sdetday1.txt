@@ -9,3 +9,5 @@ Git commands - github changes
  git pull - github change
 
  git local change
+ 
+ git github change
