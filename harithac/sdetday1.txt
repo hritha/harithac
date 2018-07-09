@@ -5,3 +5,4 @@ To check the difference in the file with local
 Git commands - Local changes
 
 Git commands - github changes
+ git pull - local change
