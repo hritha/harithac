@@ -6,3 +6,4 @@ Git commands - Local changes
 
 Git commands - github changes
  git pull - local change
+ git pull - github change
