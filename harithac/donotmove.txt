@@ -1,1 +1,2 @@
 this is my second file
+Updating this file for checking git commands
